@@ -4,7 +4,7 @@ const wordsObj = {
         ['streiten','спорить'],
         ['bestimmt','определенный'],
         ['ärgerlich','злой'],
-        ['wohl uns','наверное'],
+        ['wohl','наверное'],
         ['wahrscheinlich','вероятно'],
         ['verbringen','тратить'],
         ['verdienen','зарабатывать'],
